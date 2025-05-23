@@ -8,5 +8,5 @@ export function Heading({children}: HeadingProps){ //desestruturação para adic
     return (
         <h1 className={styles.heading}>{children}</h1>
         
-    )
+    )   
 }
