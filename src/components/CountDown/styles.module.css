@@ -1,0 +1,7 @@
+.container {
+  font-size: clamp(8rem, 25vw, 16rem); /*tamanho adaptável*/
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.3rem;
+  padding-top: 5rem;
+}
